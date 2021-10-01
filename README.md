@@ -1,6 +1,5 @@
 # Case Study: Income Tax Collector
 
-
 ## Summary
 
 Most of the chapters in this book include a case study that illustrates the software development process. This approach may seem overly elaborate for small programs, but it scales up well when programs become larger. The first case study develops a program that calculates income tax.
